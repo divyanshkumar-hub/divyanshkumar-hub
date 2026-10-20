@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **DSA projects in C**
 - 🌱 I'm learning **advanced algorithms and system design**
 - 💬 Ask me about **C programming, Python, Data Structures**
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/divyansh-kumar) | divyansh@email.com
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/divyansh-kumar) | divyanshkumar694@email.com
 - ⚡ Fun fact: I simulated an entire browser's back/forward navigation system in C!
 
 ---
